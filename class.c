@@ -20,6 +20,6 @@ void main() {
     if (b == 0)
       printf("Entered value is prime \n", n);
     else
-      printf("Entered value fgfg is not prime \n", n);
+      printf("Entered value  isnot prime \n", n);
   }
 }
